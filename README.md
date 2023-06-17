@@ -10,4 +10,9 @@ Commmand to install all the required libraries:
 
 Command to run the streamlit app:
 
-<code>streamlit run app.py </code>
+<code>streamlit run streamlit-app.py </code>
+
+Command to run the flask app:
+
+<code>python3 app.py </code>
+
